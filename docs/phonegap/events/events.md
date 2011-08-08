@@ -7,6 +7,9 @@ Event Types
 -----------
 
 - backbutton
+- batterycritical
+- batterylow
+- batterystatus
 - deviceready
 - menubutton
 - pause
